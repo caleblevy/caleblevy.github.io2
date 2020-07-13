@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm Caleb, a postdoctoral researcher working a UC Santa Cruz with [Lise Getoor](https://linqs.soe.ucsc.edu/home) lab and [Seshadhri Comandur](https://users.soe.ucsc.edu/~sesh/). My work includes social science applications of statistical relational models, causal inference and graph embeddings. I earned my Ph.D. from Princeton University advised by [Robert Tarjan](https://www.cs.princeton.edu/~ret/).
+I'm Caleb, a postdoctoral researcher working a UC Santa Cruz with [Lise Getoor](https://linqs.soe.ucsc.edu/home) in the [LINQS](https://linqs.soe.ucsc.edu/home) lab and [Seshadhri Comandur](https://users.soe.ucsc.edu/~sesh/). My work includes applications of statistical relational learning to social science, causal inference, and graph embeddings. I earned my Ph.D. from Princeton University advised by [Robert Tarjan](https://www.cs.princeton.edu/~ret/).
