@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caleb Levy"
 title_separator          : "-"
 name                     : &name "Caleb Levy"
-description              : &description "Postdoctoral Research at UC Santa Cruz"
+description              : &description "Postdoctoral Researcher at UC Santa Cruz"
 url                      : https://caleblevy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caleblevy/caleblevy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Caleb Levy"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at UC Santa Cruz, working on graphical models, computational social science, and data science in relational domains."
+  bio              : "Postdoctoral Researcher at UC Santa Cruz."
   location         : "UC Santa Cruz"
   employer         :
   pubmed           :
